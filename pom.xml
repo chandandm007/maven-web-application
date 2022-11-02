@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.233.133:9980/chandandevops/repository/walmar-snapchat/</url>
+	      <url>http://172.31.44.77:9980/chandandevops/repository/walmar-snapchat/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
